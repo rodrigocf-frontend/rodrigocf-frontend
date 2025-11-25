@@ -12,8 +12,8 @@ Sou um desenvolvedor frontend focado em construir aplicações web e mobile mode
 const skills = {
   languages: ['TypeScript', 'JavaScript'],
   frontend: ['React', 'Next.js'],
-  mobile: ['React Native', 'React Native Paper'],
-  styling: ['Tailwind CSS', 'Styled Components', 'Chakra UI', 'MUI', 'Gluestack UI'],
+  mobile: ['React Native'],
+  styling: ['Tailwind CSS', 'Styled Components', 'Chakra UI', 'MUI', 'Gluestack UI','React Native Paper'],
   stateManagement: ['Redux', 'MobX','ContextAPI'],
   backend: ['Node.js', 'Prisma'],
   focus: 'Frontend Development'
