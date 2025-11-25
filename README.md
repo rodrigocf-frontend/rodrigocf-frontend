@@ -47,7 +47,7 @@ const skills = {
 
 ## 🔥 Projetos em Destaque
 
-> 🔄 **Refatoração em andamento** - Estou refatorando meus projetos React Native, aplicando TypeScript, clean architecture, melhores práticas de performance e código mais maintível.
+> 🔄 **Refatoração em andamento** - Estou refatorando meus projetos React Native, aplicando TypeScript, melhores práticas de performance e código mais maintível.
 
 <!--
 Descomente e adicione seus projetos quando estiverem prontos:
