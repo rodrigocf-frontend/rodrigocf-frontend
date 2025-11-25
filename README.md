@@ -64,14 +64,13 @@ Breve descrição do projeto e tecnologias utilizadas.
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigocunhaf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
 
 ## 💡 Atualmente
 
 - 🔄 Refatorando projetos React Native prioritariamente
-- 🏗️ Implementando clean architecture e design patterns
 - ⚡ Otimizando performance e qualidade de código
 - 📱 Modernizando componentes e estrutura de apps mobile
 - 🎯 Focado em código limpo e manutenível
