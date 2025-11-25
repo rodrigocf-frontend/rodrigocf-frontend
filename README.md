@@ -46,9 +46,7 @@ const skills = {
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rodrigocf-frontend&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocf-frontend&layout=compact&theme=radical)
+![rodrigocf-frontend GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocf-frontend&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🔥 Projetos em Destaque
 
