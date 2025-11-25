@@ -12,20 +12,37 @@ Sou um desenvolvedor frontend focado em construir aplicações web e mobile mode
 const skills = {
   languages: ['TypeScript', 'JavaScript'],
   frontend: ['React', 'Next.js'],
-  mobile: ['React Native'],
-  backend: ['Node.js'],
+  mobile: ['React Native', 'React Native Paper'],
+  styling: ['Tailwind CSS', 'Styled Components', 'Chakra UI', 'MUI', 'Gluestack UI'],
+  stateManagement: ['Redux', 'MobX'],
+  backend: ['Node.js', 'Prisma'],
   focus: 'Frontend Development'
 }
 ```
 
 ### Principais Tecnologias
 
+**Frontend & Mobile:**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Styling & UI:**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+**State Management & Backend:**
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ## 📊 GitHub Stats
 
