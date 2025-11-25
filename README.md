@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Rodrigo Cunha França.
+# 👋 Olá, eu sou Rodrigo
 
-Desenvolvedor Full Stack apaixonado por criar experiências digitais incríveis e funcionais.
+Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis e funcionais.
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou **refatorando meus projetos React Native**, aplicando padrões modernos de código e arquitetura limpa.
+Sou um desenvolvedor frontend focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou **refatorando meus projetos React Native**, aplicando padrões modernos de código e arquitetura limpa.
 
 ## 💻 Tech Stack
 
@@ -13,7 +13,8 @@ const skills = {
   languages: ['TypeScript', 'JavaScript'],
   frontend: ['React', 'Next.js'],
   mobile: ['React Native'],
-  interests: ['UI/UX', 'Performance', 'Clean Code']
+  backend: ['Node.js'],
+  focus: 'Frontend Development'
 }
 ```
 
@@ -24,6 +25,7 @@ const skills = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
