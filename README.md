@@ -14,7 +14,7 @@ const skills = {
   frontend: ['React', 'Next.js'],
   mobile: ['React Native', 'React Native Paper'],
   styling: ['Tailwind CSS', 'Styled Components', 'Chakra UI', 'MUI', 'Gluestack UI'],
-  stateManagement: ['Redux', 'MobX'],
+  stateManagement: ['Redux', 'MobX','ContextAPI'],
   backend: ['Node.js', 'Prisma'],
   focus: 'Frontend Development'
 }
