@@ -4,7 +4,7 @@ Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis e 
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor frontend focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou **refatorando meus projetos React Native**, aplicando padrões modernos de código e arquitetura limpa.
+Sou um desenvolvedor frontend focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou **refatorando meus projetos React Native**, aplicando padrões modernos de código.
 
 ## 💻 Tech Stack
 
