@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Rodrigo Cunha França
+# 👋 Olá, eu sou Rodrigo Cunha França.
 
 Desenvolvedor Full Stack apaixonado por criar experiências digitais incríveis e funcionais.
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou refinando e atualizando projetos do meu portfólio para refletir meu crescimento e evolução como desenvolvedor.
+Sou um desenvolvedor focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou **refatorando meus projetos React Native**, aplicando padrões modernos de código e arquitetura limpa.
 
 ## 💻 Tech Stack
 
@@ -33,7 +33,7 @@ const skills = {
 
 ## 🔥 Projetos em Destaque
 
-> 🚧 **Atualmente em revisão e atualização** - Estou refinando meus projetos anteriores com melhorias de código, novas features e design modernizado.
+> 🔄 **Refatoração em andamento** - Estou refatorando meus projetos React Native, aplicando TypeScript, clean architecture, melhores práticas de performance e código mais maintível.
 
 <!--
 Descomente e adicione seus projetos quando estiverem prontos:
@@ -56,9 +56,11 @@ Breve descrição do projeto e tecnologias utilizadas.
 
 ## 💡 Atualmente
 
-- 🔨 Refinando projetos do portfólio
-- 📚 Aprendendo e explorando novas tecnologias
-- 🎯 Focado em clean code e best practices
+- 🔄 Refatorando projetos React Native prioritariamente
+- 🏗️ Implementando clean architecture e design patterns
+- ⚡ Otimizando performance e qualidade de código
+- 📱 Modernizando componentes e estrutura de apps mobile
+- 🎯 Focado em código limpo e manutenível
 - 🌱 Sempre evoluindo como desenvolvedor
 
 ---
