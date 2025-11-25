@@ -44,9 +44,6 @@ const skills = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## 📊 GitHub Stats
-
-![rodrigocf-frontend GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocf-frontend&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🔥 Projetos em Destaque
 
