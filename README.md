@@ -1,76 +1,66 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+# 👋 Olá, eu sou [Seu Nome]
 
-<div align="center">
+Desenvolvedor Full Stack apaixonado por criar experiências digitais incríveis e funcionais.
 
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
-</div>
+## 🚀 Sobre Mim
 
+Sou um desenvolvedor focado em construir aplicações web e mobile modernas, sempre buscando as melhores práticas e tecnologias mais recentes do mercado. Atualmente estou refinando e atualizando projetos do meu portfólio para refletir meu crescimento e evolução como desenvolvedor.
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+## 💻 Tech Stack
 
-💻 Passionately building an **Arch Installer** project. 
+```javascript
+const skills = {
+  languages: ['TypeScript', 'JavaScript'],
+  frontend: ['React', 'Next.js'],
+  mobile: ['React Native'],
+  interests: ['UI/UX', 'Performance', 'Clean Code']
+}
+```
 
+### Principais Tecnologias
 
-<div align="Center">
-<h1>Skills</h1>
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<div align="Center">
+## 📊 GitHub Stats
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rodrigocf-frontend&show_icons=true&theme=radical)
 
-</div>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocf-frontend&layout=compact&theme=radical)
 
-<br>
-<br>
-<br>
+## 🔥 Projetos em Destaque
 
-<div align="Center">
-<h1>Operating Systems</h1>
+> 🚧 **Atualmente em revisão e atualização** - Estou refinando meus projetos anteriores com melhorias de código, novas features e design modernizado.
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<!--
+Descomente e adicione seus projetos quando estiverem prontos:
 
-</div>
+### [Nome do Projeto 1](link-do-repositorio)
+Breve descrição do projeto e tecnologias utilizadas.
 
-<br>
-<br>
+### [Nome do Projeto 2](link-do-repositorio)
+Breve descrição do projeto e tecnologias utilizadas.
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+### [Nome do Projeto 3](link-do-repositorio)
+Breve descrição do projeto e tecnologias utilizadas.
+-->
 
+## 📫 Como me encontrar
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
 
-<div align="Center">
+## 💡 Atualmente
 
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+- 🔨 Refinando projetos do portfólio
+- 📚 Aprendendo e explorando novas tecnologias
+- 🎯 Focado em clean code e best practices
+- 🌱 Sempre evoluindo como desenvolvedor
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+---
 
-
-</div>
-
-<br>
-<br>
-
-<div align="Center">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-
-</div>
-
-------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+⭐️ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
