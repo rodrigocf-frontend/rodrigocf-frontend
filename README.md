@@ -12,7 +12,7 @@
 
 Frontend developer with experience in **Angular** and **React** ecosystems. I enjoy building products with real architecture decisions — design systems, state management, server-side rendering and CI pipelines.
 
-Currently focused on expanding into fullstack development with **.NET** and **Node.js**.
+Currently focused on expanding into fullstack development with **.NET**.
 
 ---
 
